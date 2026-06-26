@@ -3,3 +3,6 @@
 poppler/** linguist-documentation
 Tesseract-OCR/** linguist-documentation
 *.html linguist-detectable=false
+*.tex linguist-detectable=false
+*.toc linguist-detectable=false
+*.aux linguist-detectable=false
