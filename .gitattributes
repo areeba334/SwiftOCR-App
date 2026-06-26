@@ -2,3 +2,4 @@
 * text=auto
 poppler/** linguist-documentation
 Tesseract-OCR/** linguist-documentation
+*.html linguist-detectable=false
